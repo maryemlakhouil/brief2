@@ -157,7 +157,7 @@ nav{
   padding: 10px;
 }
 .grp{
-  background-image: url(/img/Rectangle\ 45.png) , url(/img/bg.png);
+  background-image: url(img/Rectangle\ 45.png) , url(img/bg.png);
   /* background-repeat: no-repeat; */
   width: 100%;
   height: 300px;
