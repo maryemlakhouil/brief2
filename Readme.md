@@ -9,7 +9,7 @@ Festava : Ce projet permet à l’utilisateur de découvrir, s’inscrire ou se 
 
 ## Les Fonctionalitées
 
--page *Home* Présentation générale du festival .
+-page *index* Présentation générale du festival .
 -page *Events* Pour lancer les evénements .
 -page *blog* 
 -page *Login*  pour se connecter .
