@@ -112,6 +112,8 @@ nav{
   position: absolute;
   color: white;
   gap: 30px;
+  position: absolute;
+  bottom: -50px;
 }
 
 .search-item {
@@ -442,9 +444,10 @@ nav{
 .footer {
   color: white;
   padding: 60px 80px 20px;
-  display: flex;
+  display: grid;
   justify-content: space-between;
-  flex-wrap: wrap;
+  /* grid-template-columns: repeat(auto-fit, 1fr); */
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 40px;
 }
 
